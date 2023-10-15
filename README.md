@@ -1,1 +1,1 @@
-# Ultra Active Club - A workout activity planner using React Hooks
+# Ultra Active Club - A workout activity planner using React Hooks!
